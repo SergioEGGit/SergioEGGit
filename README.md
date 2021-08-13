@@ -1,6 +1,6 @@
 ### Hi there i'm Sergio Alexander Echigoyen Gómez student and software developer
 
-<h2 align="center"> About me :musical_note:</h2>
+<h2 align="center"> About me :computer:</h2>
 
 ```javascript
 const Sergio_EG = {
