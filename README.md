@@ -20,7 +20,7 @@ const Sergio_EG = {
                   favoriteEditor: "Notepad++, VS Code"
                 },
     challenge:  "Full Stack Web Developer, Video Game Developer And Designer",
-    howToReachMe: "sergioeg19@hotmail.com" | "www.linkedin.com/in/alexanderechigoyen"
+    howToReachMe: "sergioechigoyen@gmail.com" | "www.linkedin.com/in/alexanderechigoyen"
     
 }
 ```
