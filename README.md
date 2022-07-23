@@ -1,7 +1,7 @@
-### Hi there i'm Sergio Alexander Echigoyen Gómez student and software developer
+### Hi there i'm Sergio Alexander Echigoyen Gómez software developer
 ### Here you can see my portfolio and cv https://sergioeggit.github.io/Portfolio_And_CV_SEG/#/
 ----
-### Hola soy Sergio Alexander Echigoyen Gómez estudiante y desarrollador de software
+### Hola soy Sergio Alexander Echigoyen Gómez desarrollador de software
 ### Aquí puedes ver mi portafolio y cv https://sergioeggit.github.io/Portfolio_And_CV_SEG/#/
 
 
